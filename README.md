@@ -156,9 +156,13 @@ Open `powerbi/Retail_Sales_Dashboard.pbix` in Power BI Desktop
 
 ---
 
-## 🎤 30-Second Interview Summary
+## 🎤 Project Summary
 
-> Built a Retail Sales & Customer Insights Dashboard using SQL, Python, Pandas, and Power BI. Cleaned and analyzed 8,000+ retail transactions, created a 5-page interactive dashboard with KPIs and filters, identified key sales and customer trends across products, regions, and time periods, and generated actionable business recommendations to improve profitability and decision-making.
+This project demonstrates a complete retail analytics pipeline — from raw data 
+generation and cleaning, through SQL analysis and Python EDA, to an interactive 
+5-page Power BI dashboard. It covers 8,000+ transactions across 3 years, 4 regions, 
+and 7 product categories, with business insights and recommendations derived directly 
+from the data.
 
 ---
 
